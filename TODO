@@ -1,0 +1,18 @@
+TODO list :
+
+SUBJECT: [/]
+[X] EXO1
+ |
+[/] EXO2
+ |\
+ |
+[_] EXO3
+
+
+----
+Caption :
+[ ] -> To do
+[/] -> Started
+[_] -> To test
+[X] -> Done
+[B] -> Bonus
